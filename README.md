@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Oakkar Aung
-oaaung@ucsd.edu
+Oakkar Aung and Rihana Mohamed 
